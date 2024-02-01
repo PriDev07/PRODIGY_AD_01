@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:2:5-32:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/priyanshulohani/.gradle/caches/transforms-3/326cc73672287ce052b681dff115d241/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/priyanshulohani/.gradle/caches/transforms-3/326cc73672287ce052b681dff115d241/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyanshulohani/.gradle/caches/transforms-3/d164bbe449b4707973b8c126f8ef1ee5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyanshulohani/.gradle/caches/transforms-3/d164bbe449b4707973b8c126f8ef1ee5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/priyanshulohani/.gradle/caches/transforms-3/326cc73672287ce052b681dff115d241/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/fceb43aa8eb881956467357e9c3f1869/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/7590adf2e7aa2b31e8f039b64b8d44cd/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2c95672bb3c97afb3cce2ad33fb1edcf/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2a24af07b685693f7f41f444c217b68f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2bb775134a6be26311345fdeab71eaf8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/0e1904a2ebe6434a16010339bb93f638/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/priyanshulohani/.gradle/caches/transforms-3/326cc73672287ce052b681dff115d241/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/priyanshulohani/.gradle/caches/transforms-3/29e40cf8434c49c0fb178ba02c1ef9ac/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/62d99d1e67bae637c48cfd2c424455d4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/eb32cdbc2c8c24e4b286ee13f1aafc5b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/0a0d293f8369fba2293d181f244fb259/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/c27a45d12e3992b70a543a1289f8fca8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/74d8d4615e222405928f23fe27893111/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyanshulohani/.gradle/caches/transforms-3/d164bbe449b4707973b8c126f8ef1ee5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/1b8c994b87cf15e1f141b4e65d62522c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/1c77bfe35646c8cd75e20d9d88cae3ab/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/fceb43aa8eb881956467357e9c3f1869/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/fceb43aa8eb881956467357e9c3f1869/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/7590adf2e7aa2b31e8f039b64b8d44cd/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/7590adf2e7aa2b31e8f039b64b8d44cd/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2c95672bb3c97afb3cce2ad33fb1edcf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2c95672bb3c97afb3cce2ad33fb1edcf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2a24af07b685693f7f41f444c217b68f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2a24af07b685693f7f41f444c217b68f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2bb775134a6be26311345fdeab71eaf8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/2bb775134a6be26311345fdeab71eaf8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/0e1904a2ebe6434a16010339bb93f638/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/0e1904a2ebe6434a16010339bb93f638/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/priyanshulohani/.gradle/caches/transforms-3/326cc73672287ce052b681dff115d241/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/priyanshulohani/.gradle/caches/transforms-3/326cc73672287ce052b681dff115d241/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/priyanshulohani/.gradle/caches/transforms-3/29e40cf8434c49c0fb178ba02c1ef9ac/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/priyanshulohani/.gradle/caches/transforms-3/29e40cf8434c49c0fb178ba02c1ef9ac/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/62d99d1e67bae637c48cfd2c424455d4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/62d99d1e67bae637c48cfd2c424455d4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/eb32cdbc2c8c24e4b286ee13f1aafc5b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/eb32cdbc2c8c24e4b286ee13f1aafc5b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/0a0d293f8369fba2293d181f244fb259/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/0a0d293f8369fba2293d181f244fb259/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/c27a45d12e3992b70a543a1289f8fca8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/c27a45d12e3992b70a543a1289f8fca8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/74d8d4615e222405928f23fe27893111/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/priyanshulohani/.gradle/caches/transforms-3/74d8d4615e222405928f23fe27893111/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyanshulohani/.gradle/caches/transforms-3/d164bbe449b4707973b8c126f8ef1ee5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyanshulohani/.gradle/caches/transforms-3/d164bbe449b4707973b8c126f8ef1ee5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/1b8c994b87cf15e1f141b4e65d62522c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/1b8c994b87cf15e1f141b4e65d62522c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/1c77bfe35646c8cd75e20d9d88cae3ab/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/priyanshulohani/.gradle/caches/transforms-3/1c77bfe35646c8cd75e20d9d88cae3ab/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/priyanshulohani/.gradle/caches/transforms-3/4c033b68b2aa7e389fbdb9385d44f46c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

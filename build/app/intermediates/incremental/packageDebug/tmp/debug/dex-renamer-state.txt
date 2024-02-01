@@ -1,0 +1,4 @@
+#Wed Jan 17 16:06:30 IST 2024
+base.0=/Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 1 (calculator)/calculator_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
